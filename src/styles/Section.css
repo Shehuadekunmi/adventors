@@ -1,0 +1,26 @@
+.scetion{
+}
+.sec-heading{
+    padding-top: 78px;
+    text-align: center;
+}
+.take{
+    align-items: center;
+    text-align: center;
+    font-family: var(--mansalva);
+    color: var(--blue);
+    font-weight: 400;
+}
+.ideals{
+    font-family: var(--palanquin);
+    font-weight: 700;
+    color: var(--primary);
+}
+@media(min-width:768px){
+    .take{
+        font-size: 30px;
+    }
+    .ideals{
+        font-size: 50px;
+    }
+}
